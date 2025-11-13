@@ -1,0 +1,106 @@
+
+[
+    {
+        "plan_name": "Cloud Hosting",
+        "plan_description": "The High-performance cloud platform ever",
+        "plan_price": 49,
+        "original": 49.99,
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    },
+    {
+        "plan_name": "VPS Hosting",
+        "plan_description": "The ideal solution for corporate websites and larger blogs",
+        "plan_price": 39,
+        "original": 108.99,
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    },
+    {
+        "plan_name": "Shared Hosting Basic",
+        "plan_description": "The High-performance cloud platform ever",
+        "plan_price": 17,
+        "original": 29.99,
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    },
+    {
+        "plan_name": "Dedicated Server",
+        "plan_description": "The High-performance cloud platform ever",
+        "plan_price": 29.99,
+        "original": 29.99,
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    },
+    {
+        "plan_name": "Reseller Hosting",
+        "plan_description": "The ideal solution for corporate websites and larger blogs",
+        "plan_price": 39,
+        "original": 29.99,
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    },
+    {
+        "plan_name": "Shared Hosting",
+        "plan_description": "The High performance cloud platform ever",
+      
+        "plan_price": "17",
+        "original":"$29.99",
+        "payment_link_stripe": "https://buy.stripe.com/test_aEUbKX7M65YUgP67sQ",
+        "features": [
+            {
+                "feature_name": "Unlimited Access",
+                "details": "Access to all basic features"
+            },
+            {
+                "feature_name": "Support",
+                "details": "Email support during business hours"
+            }
+        ]
+    }
+]
