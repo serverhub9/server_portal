@@ -1,0 +1,12 @@
+.character {
+    border: 1px solid lightgrey;
+    font-size: 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    /* light theme */
+    color: #272729;
+    background-color: #f6f5fa;
+    box-shadow: none;
+  
+  }
+  
